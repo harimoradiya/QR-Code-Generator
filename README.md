@@ -1,10 +1,6 @@
 # QR Code Generator
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/qr-code-generator.svg)](https://github.com/harimoradiya/QR-Code-Generator/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/qr-code-generator.svg)](https://github.com/harimoradiya/QR-Code-Generator/network)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/qr-code-generator.svg)](https://github.com/harimoradiya/QR-Code-Generator/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/qr-code-generator.svg)](https://github.com/harimoradiya/QR-Code-Generator/pulls)
 
 ## Overview
 
